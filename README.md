@@ -1,4 +1,4 @@
-# Ziglu
+# Instructions for running
 1. Install node 
 
 You can download node.js or visit https://nodejs.org/en/download/package-manager/#windows 
